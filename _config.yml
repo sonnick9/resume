@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: sonnick9/resume
 # favicon: images/favicon.ico
 
 # Personal info
@@ -10,7 +10,7 @@ website: www.github.com/sproogen/resume-theme
 
 # Social links
 twitter_username: facespics
-github_username:  sproogen
+github_username:  sonnick9
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -50,7 +50,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: sonnick9/resume
 
 sass:
   sass_dir: _sass
